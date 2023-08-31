@@ -112,7 +112,7 @@ body {
 {
 
     float:left;
-    width:30%;
+    width:10%;
     height:50px;
     margin-right:3px;
 }
@@ -189,4 +189,8 @@ height:200px;
     {
         color: yellow;
     }    
+}
+#picture > img
+{
+    width:400%;
 }
